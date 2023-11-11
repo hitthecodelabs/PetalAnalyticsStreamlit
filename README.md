@@ -29,7 +29,7 @@ pip install -r requirements.txt
 To start the application, run:
 
 ```bash
-streamlit run app.py
+streamlit run app_new.py
 ```
 
 Navigate to the URL provided by Streamlit in your browser to interact with the app.
